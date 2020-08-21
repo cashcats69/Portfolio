@@ -144,8 +144,9 @@ body {
   margin-bottom: 41px;
 }
 .project-image {
-  margin-left: 1px;
+  margin-left: 5px;
 }
+
 .project-time,
 .project-cost {
   flex-basis: 50%;
